@@ -37,6 +37,36 @@ The objective is to transform raw food delivery data into meaningful insights th
 
 ![Customer Insights](CUSTOMER_INSIGHTS.png)
 
+## Key Insights
+
+### Business Performance
+
+- The dashboard contains 500 orders with total revenue of ₹3,46,624.
+- The Average Order Value is ₹693.
+- The average customer rating is 3.10.
+- The average delivery time is 37.75 minutes.
+
+### Revenue and Sales
+
+- Mumbai generated the highest city-level revenue at approximately ₹52.46K.
+- Pizza Planet generated the highest restaurant revenue at approximately ₹56.40K.
+- Chocolate Cake was the highest-selling product among the top 5 best sellers.
+- Revenue performance was analyzed across states, cities, restaurants, products, and months.
+
+### Delivery Performance
+
+- 129 orders were cancelled, representing approximately 25.8% of total orders.
+- The average delivery time was 37.75 minutes.
+- Delivery distance was analyzed against delivery time to understand delivery efficiency.
+- Delivery partner performance was evaluated based on delivery speed and ratings.
+
+### Customer Insights
+
+- The dataset contains 144 customers.
+- The average number of orders per customer is 3.
+- Customer behavior was analyzed using order frequency, ratings, location, and payment method.
+- Payment behavior was compared across Cash, UPI, Wallet, and Card transactions.
+
 ## Business Questions
 
 This project focuses on answering key business questions.
