@@ -19,6 +19,23 @@ The dashboard provides a consolidated view of:
 The objective is to transform raw food delivery data into meaningful insights that can support business and operational decision-making.
 
 ---
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](EXECUTIVE_OVERVIEW.png)
+
+### Revenue & Sales
+
+![Revenue & Sales](REVENUE_SALES.png)
+
+### Delivery Performance
+
+![Delivery Performance](DELIVERY_PERFORMANCE.png)
+
+### Customer Insights
+
+![Customer Insights](CUSTOMER_INSIGHTS.png)
 
 ## Business Questions
 
